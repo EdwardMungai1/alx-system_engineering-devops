@@ -1,1 +1,1 @@
-pwd- prints the absolute path name 
+ls -Display the contents list of your current directory.
