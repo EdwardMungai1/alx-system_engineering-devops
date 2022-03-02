@@ -1,2 +1,2 @@
-rm/directory/file -Delete the file betty
+mv/directory/file -move the file betty
 
