@@ -1,1 +1,1 @@
-chown betty hello -changes the owner of the file hello to the user betty
+Touch hello -script that creates an empty file called hello
